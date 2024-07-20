@@ -1,7 +1,7 @@
 # Overview
 Use at your own risk!
 
-IF you're here, you likely are getting a BSOD with crowdstrike.  There is a short period of time where the device comes onle before it bluescreens.  If you can rename the driver in this window it will clear up the issue by renaming(c-00000291*.sys)
+IF you're here, you likely are getting a BSOD with crowdstrike.  There is a short period of time where the device comes online before it bluescreens.  If you can rename the driver in this window it will clear up the issue. (c-00000291*.sys)
 
 Test this on a few devices frist.
 
